@@ -1,0 +1,45 @@
+h1{
+	color: #A579A2;
+	text-align: center; 
+}
+h3{
+	color: white;
+}
+body{
+	background-color: #ECE3EB;
+}
+#i1{
+	border: 3px #1B8F12 solid;
+}
+#i2{
+	border: 3px #0F16F4 solid;
+}
+#i3{
+	border: 3px #F4690F solid;
+}
+#i4{
+	border: 3px #75DEAB solid;
+}
+#i5{
+	border: 3px #C4CECF solid;
+}
+#p1{
+	width: 25%;
+	border: 3px black solid;
+}
+#p2{
+	width: 25%;
+	border: 3px black solid;
+}
+#p3{
+	width: 25%;
+	border: 3px black solid;
+}
+#p4{
+	width: 25%;
+	border: 3px black solid;
+}
+#p5{
+	width: 25%;
+	border: 3px black solid;
+}
