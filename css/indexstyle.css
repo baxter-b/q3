@@ -5,3 +5,8 @@ p{
 	font-family: "Helvetica", sans-serif;
 	color: darkred;
 }
+h1{
+	color: yellowgreen;
+	background: brown;
+	font: impact;
+}
