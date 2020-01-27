@@ -1,0 +1,45 @@
+.wrapper{
+	max-width: 80%;
+	margin:0 auto;
+	background-color: #F5B9E7 ;
+	padding: 10px
+}
+body{
+	background-color: #B1B6E1 ;
+}
+h1{
+	background-color: #878CC6 ;
+	padding: 10px;
+	text-align: center;
+}
+img{
+	float: left;
+	padding-right: 40px;
+	width: 25%;
+}
+.clearfix:after{
+	content: "";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+footer{
+	text-align: center;
+}
+h2{
+	background-color: #948E93 ;
+	padding: 10px;
+}
+.s1{
+	background-color: #E9967A;
+	padding: 5px;
+}
+.s2{
+	background-color: #FA8072;
+	padding: 5px;
+}
+.s3{
+	background-color: #FFA07A;
+	padding: 5px;
+}
