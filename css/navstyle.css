@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	max-width: 90%;
+	margin: 0 auto;
+}
+.clearfix:after{
+	content: "";
+	visibility: hidden;
+	display: block;
+	height: 0;
+	clear: both;
+}
+.a1{
+	float: left;
+	clear: left;
+	width: 45%;
+}
+.a2{
+	float: right;
+	clear: right;
+	width: 45%;
+}
+h1{
+	color: blue;
+	font-size: 84px;
+	text-align: center;
+}
+h2{
+	color: blue;
+	font-size: 42px;
+	padding-top:30px; 
+}
+li{
+	list-style: none;
+	text-align: center;
+	color: white;
+	background-color: blue;
+	padding: 10px;
+	margin: 10px;
+	text-transform: uppercase;
+}
+a:hover{
+	color: orange;
+	font-size: 48px;
+}
+nav{
+	padding-bottom: 10px;
+	border-bottom: 3px black solid;
+}
+section{
+	background-color: gray;
+	padding: 20px;
+	margin: 20px;
+}
+footer{
+	color: white;
+	background-color: blue;
+	text-align: center;
+}
