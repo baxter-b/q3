@@ -1,0 +1,80 @@
+.wrapper{
+	max-width: 90%;
+}
+p{
+	background-color: #f1f1f1;
+	width: 100px;
+	margin: 10px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 30px;
+}
+.s1{
+	display: flex;
+	background-color: blue;
+}
+.s2{
+	display: flex;
+	flex-direction: row-reverse;
+	background-color: blue;
+}
+.s3{
+	display: flex;
+	flex-direction: column;
+	background-color: blue;
+}
+.s4{
+	display: flex;
+	flex-direction: column-reverse;
+	background-color: blue;
+}
+.s5{
+	display: flex;
+	justify-content: flex-start;
+	background-color: blue;
+}
+.s6{
+	display: flex;
+	justify-content: flex-end;
+	background-color: blue;
+}
+.s7{
+	display: flex;
+	justify-content: center;
+	background-color: blue;
+}
+.s8{
+	display: flex;
+	justify-content: space-around;
+	background-color: blue;
+}
+.s9{
+	display: flex;
+	justify-content: space-between;
+	background-color: blue;
+}
+.s10{
+	display: flex;
+	justify-content: space-evenly;
+	background-color: blue;
+}
+.s11{
+	display: flex;
+	align-items:flex-start;
+	background-color: blue;
+}
+.s12{
+	display: flex;
+	align-items:flex-end;
+	background-color: blue;
+}
+.s13{
+	display: flex;
+	align-items:stretch;
+	background-color: blue;
+}
+.s14{
+	display: flex;
+	align-items:baseline;
+	background-color: blue;
+}
